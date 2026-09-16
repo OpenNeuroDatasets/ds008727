@@ -1,0 +1,15 @@
+{
+    "Name": "CorrNet_Dataset\n",
+    "BIDSVersion": "1.8.0",
+    "Authors": [
+        "Tang yancheng"
+    ],
+    "DatasetType": "raw",
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008727.v1.0.2",
+    "Funding": [
+        "National Science and Technology Major Project",
+        "National Natural Science Foundation of China",
+        "National Science Foundation of Shanghai"
+    ]
+}

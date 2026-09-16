@@ -1,0 +1,22 @@
+{
+  "participant_id": {
+    "Description": "Unique participant identifier"
+  },
+  "gender": {
+    "Description": "Biological sex of the participant",
+    "Levels": {
+      "1": "Male",
+      "2": "Female"
+    }
+  },
+  "age": {
+    "Description": "Age of the participant at the time of scanning",
+    "Units": "years"
+  },
+  "education_level": {
+    "Description": "Highest educational qualification achieved"
+  },
+  "socioeconomic_status": {
+    "Description": "Socioeconomic status (SES) scale rating"
+  }
+}

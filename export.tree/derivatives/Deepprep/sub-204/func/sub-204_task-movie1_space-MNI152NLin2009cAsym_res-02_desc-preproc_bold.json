@@ -1,0 +1,12 @@
+{
+  "TaskName": "movie1",
+  "RepetitionTime": 1.0,
+  "EchoTime": 0.03,
+  "FlipAngle": 55,
+  "MagneticFieldStrength": 3,
+  "Manufacturer": "Siemens",
+  "ManufacturersModelName": "MAGNETOM Prisma",
+  "SliceThickness": 2.0,
+  "PartialFourier": 0.875,
+  "MultibandAccelerationFactor": 6
+}
